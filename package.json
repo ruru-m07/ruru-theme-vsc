@@ -1,0 +1,27 @@
+{
+  "name": "ruru-theme",
+  "displayName": "ruru theme",
+  "description": "A clean and vibrant VSCode theme inspired by Ruru's personal style, bringing a fresh look to your coding experience.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.92.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ruru-m07/ruru-theme-vsc"
+  },
+  "license": "MIT",
+  "author": "Ruru",
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "ruru theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/ruru-theme-color-theme.json"
+      }
+    ]
+  }
+}
