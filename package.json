@@ -20,9 +20,14 @@
   "contributes": {
     "themes": [
       {
+        "label": "ruru moon",
+        "uiTheme": "vs-dark",
+        "path": "./themes/ruru-moon.json"
+      },
+      {
         "label": "ruru theme",
         "uiTheme": "vs-dark",
-        "path": "./themes/ruru-theme-color-theme.json"
+        "path": "./themes/ruru-marijuana.json"
       }
     ]
   }
