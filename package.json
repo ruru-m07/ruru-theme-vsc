@@ -3,7 +3,7 @@
   "displayName": "ruru theme",
   "description": "A clean and vibrant VSCode theme inspired by Ruru's personal style, bringing a fresh look to your coding experience.",
   "publisher": "ruru-m07",
-  "version": "0.0.2",
+  "version": "1.0.0",
   "engines": {
     "vscode": "^1.92.0"
   },
