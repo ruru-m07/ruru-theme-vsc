@@ -13,7 +13,7 @@ To achieve this effect, just add the following configuration to your `settings.j
 }
 ```
 
-### Theme variant 
+### Theme variant
 
 - ruru marijuana 🍀
   
@@ -22,7 +22,6 @@ To achieve this effect, just add the following configuration to your `settings.j
 - ruru moon 🌚
   
 ![Screenshot2024-08-2514120](https://github.com/user-attachments/assets/6570d6ff-77c5-4ac4-beb1-8d83bf9c93d6)
-
 
 ---
 
