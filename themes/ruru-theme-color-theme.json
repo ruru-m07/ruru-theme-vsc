@@ -792,7 +792,7 @@
 		"name": "Attribute IDs",
 		"scope": "entity.other.attribute-name.id",
 		"settings": {
-		  "fontStyle": "normal",
+		  "fontStyle": "bold",
 		  "foreground": "#94b9ff"
 		}
 	  },
@@ -800,7 +800,7 @@
 		"name": "Attribute class",
 		"scope": "entity.other.attribute-name.class.css",
 		"settings": {
-		  "fontStyle": "normal",
+		  "fontStyle": "bold",
 		  "foreground": "#bd9c9c"
 		}
 	  },
@@ -1789,7 +1789,7 @@
 		"name": "Comments",
 		"scope": "comment, punctuation.definition.comment",
 		"settings": {
-		  "fontStyle": "italic",
+		  "fontStyle": "italic bold",
 		  "foreground": "#6d7e88"
 		}
 	  },
@@ -1819,7 +1819,7 @@
 		"name": "js/ts italic",
 		"scope": "entity.other.attribute-name.js,entity.other.attribute-name.ts,entity.other.attribute-name.jsx,entity.other.attribute-name.tsx,variable.parameter,variable.language.super",
 		"settings": {
-		  "fontStyle": "italic"
+		  "fontStyle": "bold"
 		}
 	  },
 	  {
@@ -1877,10 +1877,10 @@
 	  "statusBar.foreground": "#969696",
 	  "statusBar.background": "#0f0f0f",
 	  "statusBarItem.hoverBackground": "#242424",
-	  "statusBar.debuggingBackground": "#cc6633",
-	  "statusBar.debuggingForeground": "#ffffff",
-	  "statusBar.noFolderBackground": "#68217a",
-	  "statusBar.noFolderForeground": "#ffffff",
+	  "statusBar.debuggingBackground": "#774600",
+	  "statusBar.debuggingForeground": "#cdcdcd",
+	  "statusBar.noFolderBackground": "#3f004f",
+	  "statusBar.noFolderForeground": "#cdcdcd",
 	  "statusBarItem.remoteBackground": "#cdcdcd",
 	  "statusBarItem.remoteForeground": "#000000",
 	  "titleBar.activeBackground": "#0f0f0f",
@@ -2037,7 +2037,7 @@
 	  "gitDecoration.stageModifiedResourceForeground": "#ffb040",
 	  "gitDecoration.submoduleResourceForeground": "#0090ff",
 	  "gitDecoration.untrackedResourceForeground": "#6cb284",
-	  "editorMarkerNavigation.background": "#1b1b1b",
+	  "editorMarkerNavigation.background": "#0f0f0f",
 	  "editorMarkerNavigationError.background": "#751d20",
 	  "editorMarkerNavigationWarning.background": "#ff990a",
 	  "editorMarkerNavigationInfo.background": "#0062d1",
@@ -2052,9 +2052,9 @@
 	  "editorSuggestWidget.foreground": "#6f6f6f",
 	  "editorSuggestWidget.highlightForeground": "#bababa",
 	  "editorSuggestWidget.selectedBackground": "#242424",
-	  "editorHoverWidget.foreground": "#9f9f9f",
-	  "editorHoverWidget.background": "#252526",
-	  "editorHoverWidget.border": "#454545",
+	  "editorHoverWidget.foreground": "#757575",
+	  "editorHoverWidget.background": "#1a1a1a",
+	  "editorHoverWidget.border": "#474747",
 	  "peekView.border": "#4f4f4f",
 	  "peekViewEditor.background": "#1b1b1b",
 	  "peekViewEditorGutter.background": "#1b1b1b",
