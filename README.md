@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/a7e6bf3f-18d5-42d0-b0e9-f5b7655dc50b)
+![Screenshot2024-08-2514020](https://github.com/user-attachments/assets/31579239-0602-4130-a91f-df780df0e9a9)
 
 Ruru Theme is a custom VSCode theme designed to bring a unique and refreshing look to your coding environment.
 
@@ -12,6 +12,17 @@ To achieve this effect, just add the following configuration to your `settings.j
   "glassit.force_sway": true,
 }
 ```
+
+### Theme variant 
+
+- ruru marijuana 🍀
+  
+![Screenshot2024-08-2513460](https://github.com/user-attachments/assets/fbed33de-c672-4205-a8d3-f8eb0eda3cf9)
+
+- ruru moon 🌚
+  
+![Screenshot2024-08-2514120](https://github.com/user-attachments/assets/6570d6ff-77c5-4ac4-beb1-8d83bf9c93d6)
+
 
 ---
 
