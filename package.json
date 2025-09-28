@@ -28,6 +28,16 @@
         "label": "ruru theme",
         "uiTheme": "vs-dark",
         "path": "./themes/ruru-marijuana.json"
+      },
+      {
+        "label": "ruru cursor light",
+        "uiTheme": "vs",
+        "path": "./themes/ruru-cursor-light.json"
+      },
+      {
+        "label": "ruru cursor dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/ruru-cursor-dark.json"
       }
     ]
   }
